@@ -15,3 +15,4 @@ Steady-state winter heat-loss and summer heat-gain breakdown for a residential c
 - `excel/` – calculation model (XLSX)
 - `matlab/` – scripts (winter/summer breakdown)
 - `report/` – documentation/report
+- `outputs/` – exported plots/screenshots
