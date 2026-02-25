@@ -1,0 +1,15 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+
+# Excel temp files
+~$*.xlsx
+
+# OS/editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
